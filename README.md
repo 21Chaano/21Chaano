@@ -1,5 +1,5 @@
 - Hi, I’m Chansen Tano
-- I’m interested in drawing, anime, games
+- I’m interested in voice actors
 - I’m currently learning wiring circuits and programming
 - I'm originally from Hawaii
 - I'm a sophomore in computer engineering
