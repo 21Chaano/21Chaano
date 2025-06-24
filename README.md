@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chansen Tano
-- 🎙 I’m interested in voice actors
-- ⌨️ I’m currently learning wiring circuits and programming
+- 🔌 I’m interested in microelectronics
+- ⌨️ I’m currently learning attacks and defenses against AI models
 - 🌺 I'm originally from Hawaii
-- 🖥 I'm a junior in computer engineering
-- 💻 I chose my major because I like working with circuits and digital chips
+- 🖥 I'm a graduate student in Electrical and Computer Engineering at The University of Hawaii at Mānoa
+- 💻 I chose my major because I am fascinated by how AI neural networks replicate a human brain
 - 🎳 A fun fact about me is:  I like to bowl
 - 📚 A book or movie I'd recommend is:  Konosuba
